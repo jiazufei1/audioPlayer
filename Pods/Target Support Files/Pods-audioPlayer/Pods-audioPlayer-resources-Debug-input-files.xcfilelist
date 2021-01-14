@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-audioPlayer/Pods-audioPlayer-resources.sh
+${PODS_ROOT}/CCVodSDK/include/CCVodSDK.framework/DWResource.bundle
+${PODS_ROOT}/CCVodSDK/include/CCVodSDK.framework/vrlibraw.bundle

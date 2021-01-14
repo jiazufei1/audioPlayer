@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAudioPlayer (2.11.0)
+
+DEPENDENCIES:
+  - SwiftAudioPlayer
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftAudioPlayer
+
+SPEC CHECKSUMS:
+  SwiftAudioPlayer: c92ea19b45ef2309d790f34970cbe5b0b49444a1
+
+PODFILE CHECKSUM: e296cb8f535d1dcfe9b44017250d35249605f1cb
+
+COCOAPODS: 1.10.0
